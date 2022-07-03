@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "810180679762",
+    "project_id": "ssn-attendance-system",
+    "storage_bucket": "ssn-attendance-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810180679762:android:b853985251ff5a53d3678b",
+        "android_client_info": {
+          "package_name": "com.anand.ssn_attendance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810180679762-i70t1o9oprvosig8u8icusepdvcrudmh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.anand.ssn_attendance",
+            "certificate_hash": "c5ae07a4ac2d49f261ab760ae76707ae9bfac34e"
+          }
+        },
+        {
+          "client_id": "810180679762-dnn2jqsoj5q94je7fjk8rr6cqqri52v2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjikYtIgePdjZzFpDtcIj6J0Xa-HTQuWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "810180679762-dnn2jqsoj5q94je7fjk8rr6cqqri52v2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
